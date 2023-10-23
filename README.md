@@ -5,4 +5,4 @@
 2. Js
 
 # Follow me on
-Twitter - (@fred_chizim)[https://www.twitter.com/fred_chizim "Fred"]
+Twitter - [@fred_chizim](https://www.twitter.com/fred_chizim "Fred")
